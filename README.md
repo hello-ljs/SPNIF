@@ -23,4 +23,6 @@
    step 2:use preprocess/model2csr.py to transform models   
    step 3:use exmaples/Mnist/lenet.py to do the inference. 
    
-      
+## Performance
+   SPNIF takes 138 seconds to infer the lenet5 10,000 times.  
+   The average inferencing time is 13.8 ms per image.
