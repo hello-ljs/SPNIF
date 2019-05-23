@@ -20,7 +20,7 @@
    scipy 
 ## How to use 
    step 1:use preprocess/prune_weights.ipynb to prune the networks  
-   step 2:use preprocess/model2csr.py to transform models 
+   step 2:use preprocess/model2csr.py to transform models   
    step 3:use exmaples/Mnist/lenet.py to do the inference. 
    
       
